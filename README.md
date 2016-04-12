@@ -1,8 +1,6 @@
-## BasicProject
+## Collection Project
 
-### March 25, 2016
-
-My third version controlled project
+### April 11, 2016
 
 * git 
 * Java 7
